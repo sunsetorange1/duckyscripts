@@ -1,3 +1,7 @@
+#ez_forkbomb by sunsetorange1
+#Target: Windows
+#Disclaimer: I do not endorse using this on machines which do not belong to you!
+
 LED SETUP
 ATTACKMODE HID
 GET SWITCH_POSITION
