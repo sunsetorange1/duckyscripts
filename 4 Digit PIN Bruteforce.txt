@@ -1,3 +1,5 @@
+#DuckyScript to bruteforce a 4-digit PIN in an input field
+#Please alter the delay value to suit your needs (it's in milliseconds)
 ATTACKMODE HID
 Q STRING 0000
 Q ENTER
